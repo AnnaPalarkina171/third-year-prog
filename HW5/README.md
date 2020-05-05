@@ -5,3 +5,5 @@
  import regression.app
  
  regression.app.create_app()
+ 
+ Возможно, понадобится сначала сделать таблицу (test_table.py)
